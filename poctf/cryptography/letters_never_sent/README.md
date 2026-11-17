@@ -29,7 +29,7 @@ Pi = (Ki - Ci + n) mod n)
 
 
 Now, only what's left is to find the key. On the image, we see some words on the margins and some of them are marked with a star. So, probably, we have to construct key from those marked words. The first(and successful) idea that came to my mind is to use the first letters of the words, starting from the top and going clockwise. The key I got is  `AETHER`.
-For decryption I used site [](https://cryptii.com/pipes/beaufort-cipher/).
+For decryption I used site [https://cryptii.com/pipes/beaufort-cipher/](https://cryptii.com/pipes/beaufort-cipher/).
 
 The flag is
 
